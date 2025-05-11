@@ -1,2 +1,3 @@
-# cadastro-sqlite-python
-Cadastro simples de usuários com banco de dados SQLite local.  Tags: Python, SQLite, Banco de Dados, CRUD
+# Projeto 09 - Cadastro com Banco de Dados SQLite
+
+Criação de tabela, inserção e leitura de dados com SQLite.
